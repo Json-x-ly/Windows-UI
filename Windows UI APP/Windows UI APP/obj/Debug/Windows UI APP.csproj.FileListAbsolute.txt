@@ -1,0 +1,13 @@
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\bin\Debug\Windows UI APP.exe.config
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\bin\Debug\Windows UI APP.exe
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\bin\Debug\Windows UI APP.pdb
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\Windows UI APP.csprojResolveAssemblyReference.cache
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\MainWindow.baml
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\MainWindow.g.cs
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\App.g.cs
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\Windows UI APP_MarkupCompile.cache
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\Windows UI APP.g.resources
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\Windows_UI_APP.Properties.Resources.resources
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\Windows UI APP.csproj.GenerateResource.Cache
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\Windows UI APP.exe
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\Windows UI APP.pdb
