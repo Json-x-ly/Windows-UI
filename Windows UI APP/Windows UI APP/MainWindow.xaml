@@ -8,9 +8,11 @@
             <ColumnDefinition Width="600*"/>
             <ColumnDefinition Width="2*"/>
         </Grid.ColumnDefinitions>
-        <Image HorizontalAlignment="Left" Height="626" VerticalAlignment="Top" Width="189" Margin="10,10,0,0"/>
-        <Button x:Name="_Button_01" Content="Button" Margin="10,0,43,10" Click="Generate_QR_Codes" Height="50" VerticalAlignment="Bottom"/>
-        <TextBox x:Name="_TextBox_01" HorizontalAlignment="Left" Height="23" Margin="43,9,0,0" TextWrapping="Wrap" Text="Enter Large Text" VerticalAlignment="Top" Width="120"/>
+        <Image HorizontalAlignment="Left" Height="626" VerticalAlignment="Top" Width="189" Margin="8,9,0,-66"/>
+        <Button x:Name="_Button_01" Content="Generate" Margin="10,0,43,10" Click="Generate_QR_Codes" Height="50" VerticalAlignment="Bottom"/>
+        <TextBox x:Name="_TextBox_01" HorizontalAlignment="Left" Height="23" Margin="43,9,0,0" TextWrapping="Wrap" Text="Beginning Value" VerticalAlignment="Top" Width="120" SpellCheck.IsEnabled="True"/>
         <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Label" VerticalAlignment="Top" Height="16" Width="28"/>
+        <Image x:Name="pictureBoxQRCode" Grid.Column="1" HorizontalAlignment="Left" Height="100" Margin="30,32,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="_TextBox_01_Copy" HorizontalAlignment="Left" Height="23" Margin="43,41,0,0" TextWrapping="Wrap" Text="Ending Value" VerticalAlignment="Top" Width="120" SpellCheck.IsEnabled="True" Drop="hmm" TextChanged="_TextBox_01_Copy_TextChanged"/>
     </Grid>
 </Window>

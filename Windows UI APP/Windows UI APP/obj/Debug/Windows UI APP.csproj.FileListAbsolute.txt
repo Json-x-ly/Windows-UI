@@ -11,3 +11,5 @@ C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\
 C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\Windows UI APP.csproj.GenerateResource.Cache
 C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\Windows UI APP.exe
 C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\obj\Debug\Windows UI APP.pdb
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\bin\Debug\QRCoder.dll
+C:\Users\Rojibora\Documents\GitHub\Windows-UI\Windows UI APP\Windows UI APP\bin\Debug\QRCoder.pdb
